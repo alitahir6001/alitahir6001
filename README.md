@@ -1,4 +1,4 @@
-### lol
+### lol I'm a dev
 <!--
 **alitahir6001/alitahir6001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
