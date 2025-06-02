@@ -1,11 +1,11 @@
 ### lol I'm a dev
+
+
+- 🔭 I’m currently working on my personal AI app using an open source LLM running locally + Python app to build personalized learning guides/syllabi for other autodidacts.
+- 🌱 I’m currently learning Ollama API to understand this new technology better as well as getting AWS Developer certified.
+- 💼 Looking for my next role as a developer -- currently seeking a Mid-Level engineer software development role
+
 <!--
-**alitahir6001/alitahir6001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
