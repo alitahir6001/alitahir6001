@@ -14,9 +14,9 @@
 - ⚡ Fun fact: ...
 -->
 
-# **Welcome to My GitHub Profile**
+<!--!# **Welcome to My GitHub Profile**
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitahir6001&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitahir6001&show_icons=true)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://lbesson.mit-license.org/)
 
 ## **About Me**
