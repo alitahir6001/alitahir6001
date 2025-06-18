@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on my personal AI app using an open source LLM running locally + Python to build personalized learning guides/syllabi for fellow autodidacts.
 - 🌱 I’m currently learning Ollama API to understand this new technology better. as well as getting AWS Developer certified.
-- 💼 Looking for my next role as a Mid-Level developer
+- 🚑 Grinding those DSA prep tutorials because I like pain.
+- 💼 Looking for my next role as a developer!
 
 <!--
 - 👯 I’m looking to collaborate on ...
