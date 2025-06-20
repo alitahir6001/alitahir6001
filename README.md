@@ -6,6 +6,9 @@
 - 🚑 Grinding those DSA prep tutorials because I like pain.
 - 💼 Looking for my next role as a developer!
 
+
+![pakfro on a bike - Copy](https://github.com/user-attachments/assets/57229314-ead8-493e-aafd-a58cba1e82e6)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
