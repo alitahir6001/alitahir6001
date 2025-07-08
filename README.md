@@ -4,7 +4,7 @@
 
 ## About Me:
 
-### lol hi, I'm a dev. Contact info is at the bottom of this readme
+### lol hi, I'm a dev.
 
 - 🔭 I’m currently working on my personal AI app in Python using an open source LLM running locally + Ollama API to build personalized learning guides/syllabi for fellow autodidacts.
 - 🌱 On track for AWS Developer certification (expected completion: Sept. 2025)
