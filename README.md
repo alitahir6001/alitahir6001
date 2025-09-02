@@ -18,24 +18,7 @@
 - **Full-Stack Development Bootcamp - Coding Dojo (2021)**
 - **Experimental Research Psychology - University of Texas at San Antonio (2018)**
 
-## **Professional Experience**
-
-### Security Specialist | Accenture | June 2024 - June 2025
-
-I continued to lead security implementations and SSO services for all GE enterprise authentication systems <strong> as the sole engineer for 10+ months</strong> during a corporate reshuffling of GE IAM personnell into Accenture.
-
-
-### **Software Engineering Specialist - SSO Team | General Electric Company | December 2021 – June 2024**
-
-I've been instrumental in maintaining and modernizing mission-critical SSO APIs serving over 80,000 employees across GE Corporate, GE Vernova, and GE Aerospace. 
-
-* **Architected and delivered 14 SSO APIs** within an 11-month timeline while simultaneously managing legacy system migration (identity provider, database, codebase) for 15+ year old Java systems.
-* Ensured **99% uptime** since production deployment, seamlessly handling high-volume usage during GE's corporate restructuring.
-* Acted as the sole developer for an extended period (10 months), managing critical authentication services without any service interruption amidst GE/Accenture transition.
-* Implemented **mutual authentication (mTLS)** architecture using OpenSSL, Terraform, and Envoy, fortifying internal API traffic security with annual manual certificate rotation.
-* Modernized CI/CD infrastructure by migrating from Jenkins to TeamCity, creating efficient deployment pipelines for all three business units through custom build scripts and templates.
-
-
+## Check out my personal site, and try out The Pocket Professor <a href="https://pakfro.dev">here!</a> 
 
 ## **Contact Information**
 
