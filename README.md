@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my personal AI app in Python using an open source LLM running locally + Ollama API to build personalized learning guides/syllabi for fellow autodidacts.
 - 🌱 On track for AWS Developer certification (expected completion: Sept. 2025)
 - 🚑 Grinding those DSA prep tutorials because I like pain.
-- 💼 Looking for my next role as a developer!
+- 💼 Looking for my next role as a developer! --> UPDATE AUG. 2025: Found my next role!
 
 ## **Certs and Education**
 
