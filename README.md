@@ -18,7 +18,7 @@
 - **Full-Stack Development Bootcamp - Coding Dojo (2021)**
 - **Experimental Research Psychology - University of Texas at San Antonio (2018)**
 
-## Check out my personal site, and try out The Pocket Professor <a href="https://pakfro.dev">here!</a> 
+<!--## Check out my personal site, and try out The Pocket Professor <a href="https://pakfro.dev">here!</a> -->
 
 ## **Contact Information**
 
