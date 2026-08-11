@@ -24,6 +24,7 @@
 
 - [Email me!](mailto:ali@pakfro.dev)
 - [Stalk me on LinkedIn!](https://www.linkedin.com/in/ali-t-06748432/)
+- [A small personal site!](https://pakfro.dev)
   
 <!--
 - 👯 I’m looking to collaborate on ...
