@@ -2,21 +2,19 @@
   <img src="https://github.com/user-attachments/assets/57229314-ead8-493e-aafd-a58cba1e82e6" style="height: 500px; width:500px;" alt="Pakfro on a bike"/>
 </p>
 
-## About Me:
-
 ### lol hi, I'm a dev.
 
-🔭 I like building personalized tools to solve problems for my homies.
+🔭 I like building personalized tools to solve problems for my homies. I also like learning about pretty much anything.
 <!-- 🌱 On track for AWS Developer certification (expected completion: Sept. 2025) -->
 <!--  🚑 Grinding those DSA prep tutorials because I like pain. -->
 <!-- 💼 Looking for my next role as a developer! --> 
 
-## **Certs and Education**
+<!--## **Certs and Education**
 
 - **AWS Cloud Practitioner (2023)**
 - **SAFe® Agile Scrum Master (2023)**
 - **Full-Stack Development Bootcamp - Coding Dojo (2021)**
-- **Experimental Research Psychology - University of Texas at San Antonio (2018)**
+- **Experimental Research Psychology - University of Texas at San Antonio (2018)** -->
 
 <!--## Check out my personal site, and try out The Pocket Professor <a href="https://pakfro.dev">here!</a> -->
 
