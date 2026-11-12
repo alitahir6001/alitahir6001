@@ -1,6 +1,6 @@
-### lol hi, I'm a dev.
+### lol hi
 
-🔭 I like building personalized tools to solve problems for my homies. I also like learning about pretty much anything.
+🔭 I like building personalized tools to solve problems for me and my homies. I also like learning about pretty much anything.
 <!-- 🌱 On track for AWS Developer certification (expected completion: Sept. 2025) -->
 <!--  🚑 Grinding those DSA prep tutorials because I like pain. -->
 <!-- 💼 Looking for my next role as a developer! --> 
