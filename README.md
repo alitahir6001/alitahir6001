@@ -1,18 +1,6 @@
 ### lol hi
 
 🔭 I like building personalized tools to solve problems for me and my homies. I also like learning about pretty much anything.
-<!-- 🌱 On track for AWS Developer certification (expected completion: Sept. 2025) -->
-<!--  🚑 Grinding those DSA prep tutorials because I like pain. -->
-<!-- 💼 Looking for my next role as a developer! --> 
-
-<!--## **Certs and Education**
-
-- **AWS Cloud Practitioner (2023)**
-- **SAFe® Agile Scrum Master (2023)**
-- **Full-Stack Development Bootcamp - Coding Dojo (2021)**
-- **Experimental Research Psychology - University of Texas at San Antonio (2018)** -->
-
-<!--## Check out my personal site, and try out The Pocket Professor <a href="https://pakfro.dev">here!</a> -->
 
 ## **Projects**
 
@@ -29,10 +17,10 @@
 - 🎓 **[pocket_professor](https://github.com/alitahir6001/pocket_professor)** - structured learning platform for career-switchers
 - 🎵 **[zune-artist-updater](https://github.com/alitahir6001/zune-artist-updater)** - updated artist metadata for the ZuneHD. Long live Zune!
 
-### Sites
+### My Site
 
 - 🌐 **[pakfro.dev](https://github.com/alitahir6001/alitahir6001.github.io)** - my personal site
-- 🎨 **[vibe-coded-sites](https://github.com/alitahir6001/vibe-coded-sites)** - front-end sites vibe coded with Gemini and Claude
+<!-- - 🎨 **[vibe-coded-sites](https://github.com/alitahir6001/vibe-coded-sites)** - front-end sites vibe coded with Gemini and Claude <!-->
 
 ## **Repos I Think Are Cool**
 
@@ -66,4 +54,3 @@
 
 - [Email me](mailto:ali@pakfro.dev)
 - [Stalk me on LinkedIn](https://www.linkedin.com/in/ali-t-06748432/)
-- [A small personal site](https://pakfro.dev)
